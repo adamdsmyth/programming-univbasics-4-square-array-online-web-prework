@@ -1,3 +1,7 @@
 def square_array(array)
-  # your code here
+  iterator=0
+  while (iterator<array.length){
+    array[iterator]=Integer.[iterator]  
+    iterator=iterator+1
+  }
 end
